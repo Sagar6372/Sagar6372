@@ -47,8 +47,9 @@ Tech: JavaScript, HTML, CSS, API integration
 
 ## 📫 Let's Connect
 
-- 📧 Email: sagarbeura@example.com  
-- 💼 LinkedIn: [Sagar Beura](https://www.linkedin.com/in/sagar-beura)  
+- 📧 Email: sagarbeura322@gmail.com  
+- 💼 LinkedIn: [Sagar Beura](https://www.linkedin.com/in/sagar-beura)
+- Contact : +91 6372768112
 
 ---
 
