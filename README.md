@@ -49,7 +49,6 @@ Tech: JavaScript, HTML, CSS, API integration
 
 - 📧 Email: sagarbeura@example.com  
 - 💼 LinkedIn: [Sagar Beura](https://www.linkedin.com/in/sagar-beura)  
-- 🌐 Portfolio: _Add your portfolio link here if any_
 
 ---
 
