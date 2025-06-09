@@ -1,49 +1,89 @@
-<h1 align="center">Hi 👋, I'm Sagar Beura</h1>
-<h3 align="center">A passionate Java backend developer and problem solver</h3>
-
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;DSA+Enthusiast;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sagar+Beura!;Java+Full+Stack+Developer;Passionate+about+coding+%26+problem-solving" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### 🌟 Who Am I?
+
+Hey there! I'm **Sagar Beura**, a passionate Java Full Stack Developer from India 🇮🇳. I thrive on building scalable and efficient web applications using Java, Spring Boot, and modern backend technologies. I've built multiple real-world projects, including a secure banking system and an efficient student-course enrollment system.
+
+🎯 **Mission:** Build clean, scalable systems that solve real-world problems.  
+🧠 **Currently learning:** Spring Security, WebFlux, and Microservices architecture.  
+🎯 **Exploring:** Building full REST APIs with best practices and security.  
+⚡ **Fun fact:** Love to debug code more than writing it!
 
 ---
 
-### 💼 Projects
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| **Online Banking System** | A complete Spring Boot project managing user transactions, accounts, and roles. | [GitHub Repo](https://github.com/Sagar6372/Online_Banking_System) |
-| **Student Course Enrollment System** | Allows student to enroll, view, and manage courses. Uses Spring Boot & JPA. | [GitHub Repo](https://github.com/Sagar6372/Student-Course-Enrollment-System) |
-| **Weather App** | Frontend weather app fetching live API data. | [GitHub Repo](https://github.com/Sagar6372/Weather_App) |
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+`Java` `JavaScript` `HTML` `CSS`
+
+#### 🧰 Backend Frameworks
+`Spring Boot` `Spring MVC` `Spring Data JPA` `Spring Security` `RESTful APIs`
+
+#### 🗃️ Databases
+`MySQL` `Oracle`
+
+#### 🧪 Tools & Others
+`Git` `GitHub` `Postman` `Swagger` `JDBC` `JSP` `Servlet` `IntelliJ` `VS Code`
+
+---
+
+### 🚀 Featured Projects
+
+#### 🏦 [Online Banking System](https://github.com/Sagar6372/Online_Banking_System)
+A secure and robust online banking system with user authentication, transactions, and account management.
+
+- **Tech Used:** Spring Boot, Spring Security, REST, MySQL
+- **Features:** Login, Signup, Transfer Money, View Statements
+- **Impact:** Strengthened backend logic with secure auth and validation.
+
+---
+
+#### 🎓 [Student Course Enrollment System](https://github.com/Sagar6372/Student-Course-Enrollment-System)
+A system to manage student-course relationships with CRUD operations and admin features.
+
+- **Tech Used:** Spring Boot, Spring MVC, Spring JPA, MySQL
+- **Features:** Enroll students, manage courses, view relations
+- **Impact:** Simplified academic process with clean APIs.
+
+---
+
+#### 🏥 Hospital Management System (Work in Progress)
+A REST API to manage doctors and patients, integrating Spring Security and association mapping.
+
+- **Tech Used:** Spring Boot, Spring Data JPA, Spring Security
+- **Features:** Add/view patients and doctors, secure endpoints
+- **Status:** Adding role-based security and exception handling
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagar6372&show_icons=true&theme=github_dark&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar6372&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagar6372&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sagar6372&theme=tokyonight" />
 </p>
 
 ---
 
-### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-beura-849a34258/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagar.beura21@gmail.com)
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sagar6372&theme=tokyonight&column=7" />
+</p>
 
 ---
 
-⭐️ *Feel free to check out my repositories and connect with me!*
+### 📬 Let's Connect
 
+- 📧 **Email:** sagarbeura1234@gmail.com  
+- 💼 **LinkedIn:** [Sagar Beura](https://www.linkedin.com/in/sagar-beura)  
+- 💻 **GitHub:** [Sagar6372](https://github.com/Sagar6372)
+
+---
+
+✨ _Thanks for visiting! Let’s build something awesome together._ 🚀
