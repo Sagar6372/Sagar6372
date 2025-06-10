@@ -9,11 +9,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Java Backend Developer with hands-on experience in REST APIs, Spring Boot, MVC, and JPA.
-- 🔄 Currently enhancing skills in **Spring Security**, **WebFlux**, and **Microservices**.
-- 🌱 Passionate about clean code, problem solving, and scalable solutions.
-- 📫 Reach me at: **sagarbeura222@gmail.com**
-- 🌍 Portfolio: [MyPortfolio.com](https://your-portfolio-link.com)
+- 💼 Java Backend Developer skilled in building scalable and secure RESTful applications.
+- 🚀 Experienced with Spring Boot, Spring MVC, Spring Data JPA, and MySQL.
+- 🔒 Learning Spring Security and WebFlux for building secure and reactive apps.
+- 🧠 Strong in Data Structures, Object-Oriented Programming & System Design fundamentals.
+- 📫 Contact: **sagarbeura222@gmail.com**
+- 🌐 Portfolio: [MyPortfolio.com](https://your-portfolio-link.com)
 
 ---
 
@@ -27,18 +28,29 @@
 
 ## 📌 Featured Projects
 
-| Name | Tech | Description | 🔗 Link |
-|------|------|-------------|---------|
-| 🏦 **Online Banking System** | Spring Boot, REST, JPA | A secure online banking system with user authentication & transaction management | [View Repo](https://github.com/Sagar6372/Online_Banking_System) |
-| 🎓 **Student-Course Enrollment** | Spring Boot, REST, JPA | Manage student registrations and course enrollments with validations | [View Repo](https://github.com/Sagar6372/Student-Course-Enrollment-System) |
-| 🏥 **Hospital Management System** | Spring Boot, REST | CRUD for doctors & patients, integrated with Spring Security | _Coming Soon_ |
-| 🔐 **User Management System** | Spring Boot, Security | Login + Logout + Role-based access using Spring Security | _Coming Soon_ |
+### 🏦 Online Banking System
+A secure digital banking platform that supports:
+- ✅ Customer registration, login & session management.
+- ✅ Account creation, fund transfer, transaction history.
+- ✅ Exception handling and validations.
+- ✅ Built using Spring Boot, Spring Data JPA, REST APIs, and MySQL.
+
+🔗 [View Repository](https://github.com/Sagar6372/Online_Banking_System)
+
+---
+
+### 🎓 Student Course Enrollment System
+A full-featured backend system to manage student admissions and course allocations:
+- 🎯 Student registration with validation.
+- 🎯 Add/update/delete courses.
+- 🎯 Enroll students to multiple courses (OneToMany & ManyToOne mapping).
+- 📊 Built with Spring Boot, REST APIs, MySQL, and Spring JPA.
+
+🔗 [View Repository](https://github.com/Sagar6372/Student-Course-Enrollment-System)
 
 ---
 
 ## 🏅 Certifications & Badges
-
-Here are a few certifications I’ve earned 👇
 
 <p align="center">
   <a href="https://www.credly.com/badges/example-spring-boot-cert" target="_blank">
@@ -47,28 +59,29 @@ Here are a few certifications I’ve earned 👇
   <a href="https://www.hackerrank.com/certificates/example-java-cert" target="_blank">
     <img src="https://img.shields.io/badge/Java%20(HackerRank)-Certified-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/learning/certificates/example-udemy-cert" target="_blank">
+  <a href="https://www.udemy.com/certificate/example-udemy-cert" target="_blank">
     <img src="https://img.shields.io/badge/Udemy%20Java%20Course-Completed-orange?style=for-the-badge&logo=udemy&logoColor=white" />
   </a>
 </p>
-
-> 📝 _Add real badge URLs and image links to personalize this section. You can upload your badge images to [imgur.com](https://imgur.com/) or use certificate verification links._
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sagar6372&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar6372&theme=tokyonight"/>
-</div>
+</p>
 
 ---
 
 ## 🧠 Problem Solving
 
-- 💡 Strong foundation in **Data Structures & Algorithms**
-- 🔢 Practicing regularly on platforms like **LeetCode**, **GeeksForGeeks**, and **Coding Ninjas**
+- 💡 Strong foundation in **DSA**, solving problems on:
+  - 🔹 LeetCode
+  - 🔹 GeeksForGeeks
+  - 🔹 Coding Ninjas
+- 🧪 Focused on real-world problem solving and optimization.
 
 ---
 
@@ -89,4 +102,3 @@ Here are a few certifications I’ve earned 👇
 ---
 
 > 💬 _“Code with purpose. Learn with passion. Build with confidence.”_
-
